@@ -80,10 +80,9 @@ python glossary_manager.py
 
 ## 📖 文档
 
-- [完整使用指南](./docs/USER_GUIDE_zh.md)
-- [配置示例](./examples/term_configurations.md)
-- [常见问题](./docs/FAQ_zh.md)
+- [常见问题 FAQ](./docs/FAQ_zh.md) - 术语替换原理、大小写敏感等重要说明
 - [快速入门 (5分钟)](./docs/QUICKSTART_zh.md)
+- [配置示例](./examples/term_configurations.md)
 
 ## 🎯 使用场景
 
@@ -201,7 +200,6 @@ MIT License - 详见 [LICENSE](./LICENSE) 文件
 ## 📮 支持
 
 - **问题反馈**: [GitHub Issues](https://github.com/wzhxzkk/deepl-glossary-manager/issues)
-- **讨论交流**: [GitHub Discussions](https://github.com/wzhxzkk/deepl-glossary-manager/discussions)
 
 ## 🌟 Star History
 

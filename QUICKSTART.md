@@ -90,13 +90,3 @@ This shows before/after comparison to verify your glossary works!
 
 ### "Glossary not working in Zotero"
 → Make sure you pasted the **complete key** including `#glossary-xxxxx`
-
-## Next Steps
-
-- [Full Documentation](./docs/README_zh.md)
-- [Configuration Examples](./examples/term_configurations.md)
-- [Advanced Usage](./docs/USER_GUIDE_zh.md)
-
----
-
-Need help? [Open an issue](https://github.com/yourusername/deepl-glossary-manager/issues)

@@ -88,13 +88,3 @@ python test_glossary.py
 
 ### "术语表在 Zotero 中不起作用"
 → 确保粘贴了**完整密钥**，包含 `#glossary-xxxxx`
-
-## 下一步
-
-- [完整文档](./docs/README_zh.md)
-- [配置示例](./examples/term_configurations.md)
-- [进阶使用](./docs/USER_GUIDE_zh.md)
-
----
-
-需要帮助？[提交问题](https://github.com/yourusername/deepl-glossary-manager/issues)
