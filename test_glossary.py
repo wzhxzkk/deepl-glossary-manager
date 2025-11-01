@@ -5,12 +5,13 @@ DeepL Glossary 翻译测试脚本
 """
 
 import requests
+import os
 import json
 
 # ==================== 配置区 ====================
 
 # 你的 DeepL API Key
-API_KEY = "YOUR_DEEPL_API_KEY_HERE"
+API_KEY = os.environ["API_KEY"]
 
 # 选择 API 端点
 API_BASE_URL = "https://api-free.deepl.com"
