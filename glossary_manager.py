@@ -2,7 +2,7 @@
 """
 DeepL Glossary Manager
 A tool to create and manage glossaries for DeepL API,
-specifically designed for Zotero PDF Translate plugin.
+designed for academic research and literature translation.
 
 Author: wzhxzkk
 License: MIT

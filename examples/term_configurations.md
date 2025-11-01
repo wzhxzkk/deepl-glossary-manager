@@ -104,17 +104,29 @@ TERMS = {
 
 ### Handling Variants
 
+**Note:** DeepL automatically handles most inflections and plurals, so you usually don't need to add every variant.
+
 ```python
-# Handle singular/plural
-"agent": "agent",
-"agents": "agent",
+# ✅ Recommended: Add base form only
+"policy": "策略",        # DeepL will handle "policies" automatically
+"agent": "agent",        # DeepL will handle "agents" automatically
 
-# Handle case variations
-"Transformer": "Transformer",
-"transformer": "Transformer",
+# ⚠️ Case sensitivity requires explicit variants
+"LLM": "LLM",           # Uppercase
+"llm": "LLM",           # Lowercase (if needed)
+"Llm": "LLM",           # Title case (if needed)
 
-# Handle different forms
-"LLM": "LLM",
-"LLMs": "LLM",
-"llm": "LLM",
+# ✅ Add irregular forms if needed
+"datum": "数据点",
+"data": "数据",         # Irregular plural
+
+# ✅ Add different capitalizations for sentence beginning
+"Transformer": "Transformer",  # Proper noun or sentence start
+"transformer": "transformer",  # Mid-sentence
 ```
+
+**When to add variants:**
+- ✅ **Case variations** (uppercase/lowercase/title case) - DeepL is case-sensitive
+- ✅ **Irregular plurals** (datum/data, person/people) - if special handling needed
+- ❌ **Regular plurals** (agent/agents, policy/policies) - DeepL handles automatically
+- ❌ **Verb conjugations** (hold/holding/holds) - DeepL handles automatically

@@ -5,7 +5,7 @@ Thank you for your interest in contributing! This document provides guidelines f
 ## Ways to Contribute
 
 ### 1. Report Bugs
-- Use [GitHub Issues](https://github.com/yourusername/deepl-glossary-manager/issues)
+- Use [GitHub Issues](https://github.com/wzhxzkk/deepl-glossary-manager/issues)
 - Include Python version, OS, and error messages
 - Describe steps to reproduce
 
@@ -163,8 +163,7 @@ To add a new language:
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/yourusername/deepl-glossary-manager/discussions)
-- Ask in [Issues](https://github.com/yourusername/deepl-glossary-manager/issues)
+- Ask in [Issues](https://github.com/wzhxzkk/deepl-glossary-manager/issues)
 
 ## Code of Conduct
 
