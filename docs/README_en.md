@@ -35,7 +35,7 @@ A Python tool to create and manage custom glossaries (terminology dictionaries) 
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/deepl-glossary-manager.git
+git clone https://github.com/wzhxzkk/deepl-glossary-manager.git
 cd deepl-glossary-manager
 
 # Install dependencies
@@ -187,8 +187,8 @@ MIT License - see [LICENSE](./LICENSE) file for details.
 
 ## 📮 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/deepl-glossary-manager/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/deepl-glossary-manager/discussions)
+- **Issues**: [GitHub Issues](https://github.com/wzhxzkk/deepl-glossary-manager/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/wzhxzkk/deepl-glossary-manager/discussions)
 
 ## 🌟 Star History
 

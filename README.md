@@ -1,4 +1,5 @@
 <div align="center">
+
 # DeepL Glossary Manager
 
 ### DeepL API 专业术语管理工具，辅助学术研究与文献翻译
@@ -34,7 +35,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/deepl-glossary-manager.git
+git clone https://github.com/wzhxzkk/deepl-glossary-manager.git
 cd deepl-glossary-manager
 
 # 安装依赖
@@ -199,8 +200,8 @@ MIT License - 详见 [LICENSE](./LICENSE) 文件
 
 ## 📮 支持
 
-- **问题反馈**: [GitHub Issues](https://github.com/yourusername/deepl-glossary-manager/issues)
-- **讨论交流**: [GitHub Discussions](https://github.com/yourusername/deepl-glossary-manager/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/wzhxzkk/deepl-glossary-manager/issues)
+- **讨论交流**: [GitHub Discussions](https://github.com/wzhxzkk/deepl-glossary-manager/discussions)
 
 ## 🌟 Star History
 
